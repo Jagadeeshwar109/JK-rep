@@ -1,0 +1,8 @@
+class sum
+{
+	public class void main(String{} arrgs)
+{
+	int a=4,b=6;
+	System.out.println("sum = a+b");
+}
+}
